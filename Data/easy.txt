@@ -1,0 +1,141 @@
+about|On the subject of something.|We read a book about sharks.
+after|Later than something else.|We play outside after lunch.
+again|One more time.|Can you sing that song again?
+almost|Very nearly, but not quite.|The bucket is almost full.
+always|Every time, with no exceptions.|The sun always rises in the east.
+animal|A living thing that can move and eat, like a dog or a bird.|The zoo has a new animal.
+answer|A reply to a question.|She knew the answer right away.
+apple|A round, crunchy fruit that grows on trees.|He packed an apple for lunch.
+around|On every side, or in a circle.|We walked around the pond.
+autumn|The season between summer and winter.|Leaves turn orange in autumn.
+balloon|A rubber bag you fill with air.|The red balloon floated up high.
+basket|A container woven from strips of material.|Put the eggs in the basket.
+beach|Sandy land next to the ocean.|We built a sandcastle at the beach.
+because|For the reason that.|I wore a coat because it was cold.
+before|Earlier than something else.|Wash your hands before dinner.
+believe|To think something is true.|I believe you can do it.
+birthday|The day of the year when you were born.|We baked a cake for his birthday.
+blanket|A warm cover for a bed.|The puppy slept on a soft blanket.
+bottle|A container for liquids with a narrow top.|Fill your water bottle before the hike.
+bought|Paid money to get something.|Mom bought new shoes for school.
+bridge|Something built to cross over a river or road.|The train rolled across the bridge.
+brother|A boy who has the same parents as you.|My brother likes to build forts.
+build|To make something by putting parts together.|Let's build a tower of blocks.
+busy|Having lots to do.|The bakery is busy on Saturdays.
+butterfly|An insect with large, colorful wings.|A butterfly landed on the flower.
+candle|A stick of wax with a wick that you can light.|She blew out the birthday candle.
+carrot|An orange vegetable that grows underground.|The rabbit nibbled a carrot.
+castle|A large, strong building with towers and walls.|The king lived in a stone castle.
+caught|Grabbed something that was moving.|He caught the ball with one hand.
+chair|A seat with a back for one person.|Pull up a chair and join us.
+cheese|A food made from milk.|I like cheese on my sandwich.
+chicken|A bird that lays eggs on a farm.|The chicken laid three eggs.
+children|More than one child.|The children played tag at recess.
+circle|A perfectly round shape.|Draw a circle for the sun.
+city|A large town where many people live.|The city has tall buildings.
+climb|To go up using your hands and feet.|The cat likes to climb trees.
+clock|A machine that shows the time.|The clock says it is noon.
+cloud|A white or gray shape in the sky made of tiny drops of water.|That cloud looks like a dragon.
+color|Red, blue, and green are each a color.|What color is your backpack?
+could|Was able to.|She could swim when she was four.
+country|A land with its own government.|Canada is a large country.
+cousin|The child of your aunt or uncle.|My cousin visited for the summer.
+crayon|A stick of colored wax for drawing.|He used a green crayon for the grass.
+dinner|The main meal of the evening.|We had pasta for dinner.
+dollar|A unit of money in the United States.|The pencil costs one dollar.
+dragon|A make-believe creature that breathes fire.|The dragon guarded its treasure.
+dream|Pictures and stories in your mind while you sleep.|I had a dream about flying.
+early|Before the usual time.|We woke up early to see the sunrise.
+earth|The planet we live on.|The earth goes around the sun.
+eight|The number after seven.|A spider has eight legs.
+enough|As much as you need.|Do we have enough cups for everyone?
+every|Each one of a group.|Every student got a sticker.
+family|A group of people who are related.|My family eats breakfast together.
+farmer|A person who grows crops or raises animals.|The farmer fed the cows.
+father|A male parent.|Her father coached the soccer team.
+favorite|Liked more than all the others.|Blue is my favorite color.
+finish|To come to the end of something.|Finish your homework first.
+flower|The colorful part of a plant that blooms.|She picked a yellow flower.
+friend|Someone you like and who likes you.|My friend shared her snack with me.
+frog|A small green animal that hops and croaks.|The frog jumped into the pond.
+garden|A place where plants and flowers grow.|We grow tomatoes in our garden.
+giant|Very, very big.|A giant wave crashed on the shore.
+glove|A covering for your hand with a place for each finger.|I lost one glove in the snow.
+happy|Feeling good and cheerful.|The puppy was happy to see us.
+heart|The part of your body that pumps blood.|Your heart beats faster when you run.
+helmet|A hard hat that protects your head.|Always wear a helmet on your bike.
+house|A building where people live.|Their house has a red door.
+hungry|Wanting to eat.|I am hungry after soccer practice.
+island|Land with water all around it.|We took a boat to the island.
+jacket|A short coat.|Zip up your jacket before going out.
+kitchen|The room where food is cooked.|Dad is baking bread in the kitchen.
+kitten|A baby cat.|The kitten chased a ball of yarn.
+ladder|Steps you climb to reach high places.|He climbed the ladder to the roof.
+laugh|To make sounds because something is funny.|The joke made everyone laugh.
+learn|To find out or get better at something.|We learn new words every week.
+letter|A written message, or a sign like A or B.|I wrote a letter to my grandma.
+library|A place where you can borrow books.|We borrowed five books from the library.
+little|Small in size.|The little bird sang a song.
+lunch|A meal in the middle of the day.|We eat lunch at noon.
+machine|Something with parts that does work.|The washing machine is very loud.
+minute|Sixty seconds.|Wait one minute, please.
+money|Coins and bills used to buy things.|She saved her money in a jar.
+monkey|An animal with a long tail that climbs trees.|The monkey swung from branch to branch.
+morning|The early part of the day.|I eat cereal every morning.
+mother|A female parent.|His mother read him a story.
+mountain|A very high hill.|Snow covers the top of the mountain.
+music|Sounds arranged in a pleasing way.|We danced to the music.
+nature|Plants, animals, and the outdoors.|We took a nature walk in the park.
+night|The time when it is dark outside.|The stars shine at night.
+number|A word or symbol for how many, like 5.|Pick a number from one to ten.
+ocean|A huge body of salt water.|Whales live in the ocean.
+orange|A round citrus fruit, or the color of it.|She peeled an orange for a snack.
+other|Different, or the second of two.|Use your other hand.
+paper|Thin sheets used for writing and drawing.|Fold the paper in half.
+party|A time when people get together for fun.|We wore hats at the party.
+pencil|A tool for writing with gray lead inside.|Sharpen your pencil before the test.
+people|Men, women, and children.|Many people came to the parade.
+picture|A drawing, painting, or photo.|She drew a picture of her dog.
+pillow|A soft cushion for your head.|He fell asleep on his pillow.
+planet|A large body that goes around a star.|Mars is called the red planet.
+please|A polite word used when asking.|Please pass the salt.
+pocket|A small pouch sewn into clothes.|He kept a shell in his pocket.
+pretty|Nice to look at.|The garden looks pretty in spring.
+puppy|A baby dog.|The puppy wagged its tail.
+purple|A color made by mixing red and blue.|Grapes can be purple.
+question|Something you ask to get an answer.|Raise your hand if you have a question.
+quiet|Making little or no noise.|Please be quiet in the library.
+rabbit|A small animal with long ears that hops.|The rabbit hid in the grass.
+rainbow|An arc of colors in the sky after rain.|We saw a rainbow over the lake.
+really|Truly, or very much.|That was a really fun game.
+river|A large stream of water that flows.|We floated down the river on a raft.
+rocket|A vehicle that flies into space.|The rocket blasted off into the sky.
+school|A place where children go to learn.|We walk to school together.
+sister|A girl who has the same parents as you.|My sister plays the piano.
+smile|A happy look made with your mouth.|Her smile lit up the room.
+snowman|A figure made of packed snow.|We put a carrot nose on the snowman.
+something|A thing that is not named.|I hear something in the closet.
+sometimes|Now and then, but not always.|Sometimes we have pizza on Friday.
+spider|A small creature with eight legs that spins webs.|The spider spun a web in the corner.
+spring|The season after winter when plants grow.|Flowers bloom in the spring.
+stairs|Steps that go up or down.|Walk carefully down the stairs.
+story|A telling of events, real or made up.|Grandpa told us a funny story.
+summer|The warmest season of the year.|We go swimming in the summer.
+teacher|A person who helps others learn.|Our teacher reads to us every day.
+thought|An idea in your mind.|That is a nice thought.
+through|In one side and out the other.|The train went through the tunnel.
+tiger|A big wild cat with orange fur and black stripes.|The tiger has black stripes.
+together|With each other.|Let's clean up together.
+tomorrow|The day after today.|We will finish the puzzle tomorrow.
+tooth|One of the hard white parts in your mouth.|She lost her first tooth.
+turtle|An animal with a hard shell.|The turtle moved slowly across the path.
+uncle|The brother of your mother or father.|My uncle taught me to fish.
+under|Below something.|The cat is hiding under the bed.
+water|The clear liquid that falls as rain.|Drink plenty of water on hot days.
+weather|What it is like outside, such as sunny or rainy.|The weather is sunny today.
+window|An opening in a wall with glass in it.|Open the window to let in fresh air.
+winter|The coldest season of the year.|It snows in the winter.
+would|A word used to talk about what might happen.|Would you like some juice?
+write|To put words on paper.|Write your name at the top.
+yellow|The color of a lemon or the sun.|She wore a yellow raincoat.
+zebra|An African animal like a horse with black and white stripes.|The zebra drank from the river.

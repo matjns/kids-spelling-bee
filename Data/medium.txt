@@ -1,0 +1,138 @@
+absence|The state of being away.|His absence from practice was noticed.
+accident|Something bad that happens by mistake.|Spilling the milk was an accident.
+achieve|To succeed in doing something.|You can achieve your goals with practice.
+address|The details of where a place is.|Write your address on the envelope.
+adventure|An exciting or unusual experience.|Camping in the woods was an adventure.
+afraid|Feeling scared.|The kitten was afraid of the thunder.
+although|Even though.|Although it rained, we had fun.
+amazing|Causing great surprise.|The fireworks were amazing.
+ancient|Very, very old.|We studied ancient Egypt in class.
+argument|A disagreement between people.|They settled the argument by taking turns.
+arrive|To reach a place.|The bus will arrive at eight.
+attention|Careful listening or watching.|Pay attention to the directions.
+audience|People who watch or listen to a show.|The audience clapped loudly.
+author|A person who writes books.|The author signed my book.
+avenue|A wide street.|The parade marched down the avenue.
+balance|To stay steady without falling.|She can balance on one foot.
+beautiful|Very pretty.|The sunset was beautiful.
+beginning|The start of something.|Read from the beginning of the chapter.
+breakfast|The first meal of the day.|We had pancakes for breakfast.
+breathe|To take air in and out.|Breathe slowly to calm down.
+calendar|A chart showing the days and months.|Mark the date on the calendar.
+captain|The leader of a team or a ship.|The captain steered the ship.
+celebrate|To do something fun for a special day.|We celebrate the new year with music.
+century|One hundred years.|That house is over a century old.
+certain|Sure, with no doubt.|I am certain the store is open.
+chocolate|A sweet food made from cacao beans.|She drank a cup of hot chocolate.
+choose|To pick one from a group.|Choose a book to read.
+climate|The usual weather of a place.|The desert has a hot, dry climate.
+collect|To gather things together.|He likes to collect seashells.
+comfortable|Feeling relaxed and at ease.|This chair is very comfortable.
+community|A group of people who live in the same area.|Our community planted trees in the park.
+complete|Having all its parts, or to finish.|The puzzle is finally complete.
+conversation|A talk between people.|We had a long conversation at dinner.
+courage|Bravery when facing something scary.|It took courage to sing on stage.
+curious|Wanting to know or learn about something.|The curious puppy sniffed every corner.
+daughter|A female child of a parent.|The farmer and his daughter fed the goats.
+decide|To make up your mind.|We need to decide where to eat.
+definitely|Without any doubt.|I will definitely be at the game.
+describe|To tell what something is like.|Describe the picture in your own words.
+desert|A dry, sandy place with little rain.|Cactuses grow in the desert.
+dessert|A sweet food eaten after a meal.|We had apple pie for dessert.
+different|Not the same.|Each snowflake is different.
+difficult|Hard to do.|The last question was difficult.
+dinosaur|A reptile that lived millions of years ago.|The museum has a dinosaur skeleton.
+discover|To find something for the first time.|Scientists discover new species every year.
+distance|How far apart two things are.|The distance to the lake is two miles.
+education|Learning and teaching.|Reading is an important part of education.
+electric|Powered by electricity.|The car has an electric motor.
+elephant|A very large animal with a trunk.|The elephant sprayed water with its trunk.
+energy|The power to do work or be active.|Bananas give you energy.
+enormous|Extremely large.|The whale was enormous.
+environment|The natural world around us.|We recycle to protect the environment.
+especially|More than usual.|I love fruit, especially strawberries.
+excellent|Very, very good.|You did an excellent job.
+excited|Feeling very happy and eager.|We were excited about the trip.
+experiment|A test to find something out.|Our science experiment used baking soda.
+explain|To make something clear.|Can you explain how the game works?
+fault|Responsibility for a mistake.|It was nobody's fault.
+February|The second month of the year.|February is the shortest month.
+forest|A large area covered with trees.|Deer live in the forest.
+fortunate|Lucky.|We were fortunate to get the last seats.
+fourth|Number four in a row.|She finished in fourth place.
+gentle|Kind and soft, not rough.|Be gentle with the baby bird.
+government|The group that runs a country or state.|The government built a new road.
+guess|To give an answer without being sure.|Guess how many beans are in the jar.
+guitar|A musical instrument with strings.|He plays the guitar in a band.
+habitat|The natural home of an animal or plant.|The pond is a habitat for frogs.
+heavy|Weighing a lot.|The box of books is heavy.
+height|How tall something is.|Measure the height of the plant.
+honest|Truthful.|Thank you for being honest.
+imagine|To make a picture in your mind.|Imagine you could fly.
+important|Mattering a lot.|Sleep is important for growing bodies.
+instead|In place of something else.|Let's walk instead of driving.
+invention|Something new that someone created.|The light bulb was a great invention.
+journey|A trip from one place to another.|The journey took three days.
+knowledge|What you know and understand.|Books add to your knowledge.
+language|Words used by people to talk and write.|She speaks two languages.
+lightning|A flash of light in the sky during a storm.|Lightning lit up the clouds.
+listen|To pay attention to sounds.|Listen to the birds singing.
+magazine|A thin book with stories and pictures that comes out often.|He reads a science magazine.
+measure|To find the size or amount of something.|Measure the flour carefully.
+medicine|Something that helps you get well.|The doctor gave her medicine.
+message|Information sent from one person to another.|I left a message for my friend.
+microscope|A tool that makes tiny things look bigger.|We saw cells through the microscope.
+million|A thousand thousands.|There are millions of stars.
+mirror|Glass that shows your reflection.|He smiled at himself in the mirror.
+mystery|Something that is hard to explain.|The missing cookies were a mystery.
+neighbor|A person who lives near you.|Our neighbor has a friendly dog.
+nervous|Worried or a little scared.|I was nervous before the spelling test.
+ninety|The number nine times ten.|My great-grandma is ninety years old.
+noisy|Making a lot of sound.|The cafeteria is noisy at lunch.
+obey|To do what you are told.|Dogs learn to obey commands.
+octopus|A sea animal with eight arms.|The octopus changed color.
+opposite|Completely different.|Up is the opposite of down.
+original|The first one, not a copy.|This is the original painting.
+paragraph|A group of sentences about one idea.|Write a paragraph about your weekend.
+patient|Able to wait calmly.|Be patient while the cookies bake.
+penguin|A black and white bird that swims but cannot fly.|The penguin slid on the ice.
+perhaps|Maybe.|Perhaps it will snow tonight.
+pioneer|One of the first people to do something.|She was a pioneer in flight.
+popular|Liked by many people.|Soccer is a popular sport.
+possible|Able to happen.|Anything is possible if you try.
+practice|To do something again and again to get better.|Practice the piano every day.
+prepare|To get ready.|We prepare for the test by studying.
+probably|Most likely.|It will probably rain later.
+promise|To say you will surely do something.|I promise to clean my room.
+pumpkin|A big orange squash.|We carved a pumpkin.
+quarter|One of four equal parts, or a coin worth 25 cents.|Cut the sandwich into quarters.
+recess|A break from school work.|We play kickball at recess.
+remember|To bring back to mind.|Remember to bring your lunch.
+rhythm|A pattern of beats in music.|Clap to the rhythm of the song.
+science|The study of the natural world.|Science is my favorite subject.
+scissors|A tool with two blades for cutting.|Use the scissors to cut the paper.
+season|One of the four parts of the year.|Which season do you like best?
+separate|To move apart, or kept apart.|Separate the red and blue blocks.
+shoulder|The part of the body where the arm joins.|He carried his bag on one shoulder.
+skeleton|The bones of a body.|The human skeleton has many bones.
+special|Different and better than usual.|Today is a special day.
+squirrel|A small furry animal with a bushy tail.|The squirrel buried an acorn.
+straight|Not bent or curved.|Draw a straight line.
+strength|How strong something is.|Lifting weights builds strength.
+surprise|Something you do not expect.|The party was a big surprise.
+telescope|A tool for seeing faraway things.|We looked at the moon with a telescope.
+temperature|How hot or cold something is.|The temperature dropped at night.
+thousand|Ten hundreds.|The stadium holds a thousand people.
+tomato|A round red fruit used in salads and sauces.|Slice the tomato for the salad.
+tongue|The part of your mouth used for tasting.|The dog licked me with its tongue.
+treasure|Gold, jewels, or other valuable things.|The pirates buried their treasure.
+trouble|A problem or difficulty.|We had trouble finding the key.
+umbrella|A covering that keeps rain off you.|Take an umbrella in case it rains.
+universe|Everything that exists, including all of space.|The universe is full of galaxies.
+vacation|A time of rest away from work or school.|We went to the beach on vacation.
+vegetable|A plant or part of a plant that people eat.|Broccoli is a green vegetable.
+volcano|A mountain that can blow out hot melted rock.|The volcano erupted with lava.
+weird|Strange or unusual.|That was a weird noise.
+whisper|To speak very softly.|She whispered a secret to me.
+wonderful|Very good, amazing.|We had a wonderful time.
+yesterday|The day before today.|It rained all day yesterday.
