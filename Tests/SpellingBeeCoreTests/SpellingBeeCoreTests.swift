@@ -117,7 +117,7 @@ final class LevelLadderTests: XCTestCase {
     func testEasyNeverStepsDownAndAdvancedTops() {
         var ladder = LevelLadder()
         for _ in 0..<30 { XCTAssertNil(ladder.record(correct: false)) }
-        ladder.parentSet(.advanced)
+        ladder.setTierForTesting(.advanced)
         for _ in 0..<30 { XCTAssertNil(ladder.record(correct: true)) }
         XCTAssertEqual(ladder.tier, .advanced)
         XCTAssertEqual(ladder.progressToNext, 1)

@@ -22,7 +22,7 @@ The app comes with 413 words: 141 Easy, 138 Medium, 134 Advanced. Each has a sho
 
 ### Your own word list
 
-Grown-ups can add words, for example this week's school spelling list. The first launch writes an example file named `custom-words.json`:
+You can add words, for example this week's school spelling list. This is file-only: there is no settings screen in the app. The first launch writes an example file named `custom-words.json`:
 
 `~/Library/Containers/com.kidscomputer.spellingbee/Data/Library/Application Support/SpellingBee/custom-words.json`
 
@@ -36,11 +36,8 @@ Each entry needs `"word"`, and can have `"definition"`, `"sentence"`, and `"tier
 }
 ```
 
-Then open the grown-ups screen and choose **Reload custom words**. A custom word replaces a built-in word with the same spelling.
+Save the file, then quit and reopen Spelling Bee to load the new words. A custom word replaces a built-in word with the same spelling.
 
-## Grown-ups screen
-
-Press and hold the **Spelling Bee** title on the home screen for 3 seconds, then answer a multiplication question. From there you can set the level, reset all progress, find and reload the custom word list, and see which voice is in use.
 
 ## The voice
 

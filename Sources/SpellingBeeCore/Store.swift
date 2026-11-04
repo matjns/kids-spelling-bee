@@ -41,7 +41,7 @@ public struct ProgressStore {
         try data.write(to: fileURL, options: .atomic)
     }
 
-    /// Writes an example custom list the first time, so a parent has something to edit.
+    /// Writes an example custom list the first time, so there is something to edit.
     public func ensureCustomWordsFile() {
         guard !fileManager.fileExists(atPath: customWordsURL.path) else { return }
         try? fileManager.createDirectory(at: directory, withIntermediateDirectories: true)

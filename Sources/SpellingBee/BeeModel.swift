@@ -20,8 +20,6 @@ final class BeeModel: ObservableObject {
     @Published var showConfetti = false
     @Published var levelUp: Tier?
     @Published var steppedDown: Tier?
-    @Published var showParentGate = false
-    @Published var showParentScreen = false
     @Published var customProblem: String?
     @Published var hintShown: String?
 
@@ -149,23 +147,6 @@ final class BeeModel: ObservableObject {
         word = nil
         result = nil
         screen = .home
-    }
-
-    // MARK: Grown-ups
-
-    func parentSetLevel(_ tier: Tier) {
-        progress.ladder.parentSet(tier)
-        try? store.save(progress)
-    }
-
-    func parentReset() {
-        progress = .fresh
-        try? store.save(progress)
-    }
-
-    func revealCustomWordsFile() {
-        store.ensureCustomWordsFile()
-        NSWorkspace.shared.activateFileViewerSelecting([store.customWordsURL])
     }
 }
 #endif

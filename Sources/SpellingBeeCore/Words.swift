@@ -57,7 +57,7 @@ public struct WordEntry: Codable, Equatable, Hashable, Sendable {
     public var key: String { AnswerChecker.normalize(word) }
 }
 
-/// The parent-editable custom list file format.
+/// The editable custom word list file format.
 public struct CustomWordFile: Codable, Equatable {
     public var howTo: String?
     public var words: [WordEntry]
@@ -67,7 +67,7 @@ public struct CustomWordFile: Codable, Equatable {
         self.words = words
     }
 
-    public static let instructions = "Grown-ups: add words to the list below, then choose Reload in the grown-ups screen. Each word needs \"word\", and can have \"definition\", \"sentence\", and \"tier\" (easy, medium, or advanced)."
+    public static let instructions = "Add words to the list below, then quit and reopen Spelling Bee. Each word needs \"word\", and can have \"definition\", \"sentence\", and \"tier\" (easy, medium, or advanced)."
     public static let fileName = "custom-words.json"
 
     public static let example = CustomWordFile(words: [

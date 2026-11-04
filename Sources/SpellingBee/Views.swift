@@ -28,18 +28,6 @@ struct RootView: View {
             }
         }
         .frame(minWidth: 900, minHeight: 680)
-        .sheet(isPresented: $model.showParentGate) {
-            ParentGate(
-                onPass: {
-                    model.showParentGate = false
-                    model.showParentScreen = true
-                },
-                onCancel: { model.showParentGate = false }
-            )
-        }
-        .sheet(isPresented: $model.showParentScreen) {
-            ParentView(model: model)
-        }
     }
 }
 
@@ -51,8 +39,6 @@ struct HomeView: View {
             Text("🐝 Spelling Bee")
                 .font(.system(size: 60, weight: .heavy, design: .rounded))
                 .foregroundStyle(Palette.ink)
-                // Hidden grown-ups door: press and hold the title for 3 seconds.
-                .onLongPressGesture(minimumDuration: 3) { model.showParentGate = true }
             Text("Listen to the word, then type how it's spelled.")
                 .font(.system(size: 22, weight: .medium, design: .rounded))
                 .foregroundStyle(Palette.ink.opacity(0.75))
@@ -282,48 +268,4 @@ struct BeeOverView: View {
     }
 }
 
-struct ParentView: View {
-    @ObservedObject var model: BeeModel
-    @Environment(\.dismiss) private var dismiss
-
-    var body: some View {
-        VStack(alignment: .leading, spacing: 16) {
-            Text("Grown-ups").font(.system(size: 26, weight: .bold, design: .rounded))
-            Text("Levels change on their own: 8 of the last 10 words right moves up a level. A long run of misses steps down one level.")
-                .fixedSize(horizontal: false, vertical: true)
-            Text("Current level: \(model.progress.ladder.tier.title)  (highest reached: \(model.progress.ladder.best.title))")
-            HStack {
-                Text("Set level:")
-                ForEach(Tier.allCases, id: \.self) { tier in
-                    Button(tier.title) { model.parentSetLevel(tier) }
-                }
-            }
-            Divider()
-            Text("Custom words: \(model.customCount) loaded")
-            Text(model.customWordsPath)
-                .font(.system(size: 12, design: .monospaced))
-                .textSelection(.enabled)
-            if let problem = model.customProblem {
-                Text(problem).foregroundStyle(Palette.coral)
-            }
-            HStack {
-                Button("Show the word list file") { model.revealCustomWordsFile() }
-                Button("Reload custom words") { model.reloadCustomWords() }
-            }
-            Text("Voice: \(model.speaker.voiceName). For a nicer voice, download an Enhanced US English voice in System Settings > Accessibility > Spoken Content.")
-                .font(.system(size: 13))
-                .foregroundStyle(.secondary)
-                .fixedSize(horizontal: false, vertical: true)
-            Divider()
-            HStack {
-                Button("Reset all progress", role: .destructive) { model.parentReset() }
-                Spacer()
-                Button("Done") { dismiss() }
-                    .keyboardShortcut(.defaultAction)
-            }
-        }
-        .padding(28)
-        .frame(width: 560)
-    }
-}
 #endif
